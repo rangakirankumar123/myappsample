@@ -1,0 +1,16 @@
+OX_mNCM_3678838978({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://medianet-d.openx.net/{medium}/1.0/{rtype}?ts={txn_state}",
+    "oxt": 118.491,
+    "adunits" : [
+      {
+        "auid":"538690454",
+        "chain_revenue":"",
+        "size":"300x600",
+        "chain":[
+        ]
+      }
+    ]
+  }
+});
